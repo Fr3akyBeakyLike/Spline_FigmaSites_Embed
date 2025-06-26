@@ -3,7 +3,7 @@
 A custom React component to embed Spline scenes into Figma Sites with a transparent background.  
 Includes z-index and pointer-events fixes for interactive elements.
 
-Used on: [https://notafr8studio.com](https://notafr8studio.com)
+Used on: [https://www.notafr8studio.com](https://www.notafr8studio.com)
 
 ---
 
